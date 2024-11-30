@@ -1,0 +1,12 @@
+{
+  "name": "ServerlessProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.699.0",
+    "react-native": "0.76.3"
+  }
+}
